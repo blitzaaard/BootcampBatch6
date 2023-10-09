@@ -1,0 +1,14 @@
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\obj\Debug\net7.0\ClassCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\obj\Debug\net7.0\ClassCat.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\obj\Debug\net7.0\ClassCat.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\obj\Debug\net7.0\ClassCat.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\bin\Debug\net7.0\ClassCat.exe
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\bin\Debug\net7.0\ClassCat.deps.json
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\bin\Debug\net7.0\ClassCat.runtimeconfig.json
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\bin\Debug\net7.0\ClassCat.dll
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\bin\Debug\net7.0\ClassCat.pdb
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\obj\Debug\net7.0\ClassCat.dll
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\obj\Debug\net7.0\refint\ClassCat.dll
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\obj\Debug\net7.0\ClassCat.pdb
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\obj\Debug\net7.0\ClassCat.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\Tutorial\BootcampBatch6\ClassCat\obj\Debug\net7.0\ref\ClassCat.dll
