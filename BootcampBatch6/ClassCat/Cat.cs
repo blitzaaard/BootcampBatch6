@@ -2,7 +2,8 @@ namespace Animal{
 	class Cat
 	{
 		public string colour;
-		public string leg;
+		public int leg;
+		public bool isAnyTail;
 		
 		public void jump()
 		{
@@ -10,7 +11,7 @@ namespace Animal{
 		}
 		public void run()
 		{
-			Console.WriteLine("Run")
+			Console.WriteLine("Run");
 		}
 	}
 }
