@@ -4,6 +4,7 @@ namespace Animal{
 		public string colour;
 		public int leg;
 		public bool isAnyTail;
+		public string eyeClolour;
 		
 		public void jump()
 		{
