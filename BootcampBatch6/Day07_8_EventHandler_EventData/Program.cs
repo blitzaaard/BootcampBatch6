@@ -2,7 +2,10 @@
 {
 	static void Main()
 	{
-		
+		Publisher pub = new Publisher("Jonny");
+		Subscriber sub = new Subscriber();
+		pub.eventHandler += sub.Notification;
+		pub.SendNotification();
 	}
 }
 
@@ -17,11 +20,22 @@ class Publisher
 	public void SendNotification()
 	{
 		eventHandler?.Invoke(this, new EventData()
-												{
-													name = "Jokoyanto",
-													price = 2000
-												}
-		)
+		{
+			name = "Jokoyanto",
+			price = 2000
+		});
+	}
+	public override string ToString()
+	{
+		return _name;
+	}
+}
+
+class Subscriber
+{
+	public void Notification(object sender, EventData e)
+	{
+		Console.WriteLine($"Called by {e.name} {e.price}");
 	}
 }
 
